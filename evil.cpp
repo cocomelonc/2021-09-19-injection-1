@@ -1,3 +1,9 @@
+/*
+evil.cpp
+malware with reverse shell payload (without process injection example)
+author: @cocomelonc
+https://cocomelonc.github.io/tutorial/2021/09/18/malware-injection-1.html
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
